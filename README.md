@@ -2,7 +2,7 @@
  
 - 👨‍💻 I'm currently working at the Rio de Janeiro Court Of Justice as data scientist and database administrator. 
 - 📚 I'm studying python, linear and logistic regression, apache airflow, pycaret, docker, oracle database and oracle cloud.
-- 📭 Contact me ny email davidejesus1811@gmail.com 
+- 📭 Contact me by email davidejesus1811@gmail.com 
 - 😄 Pronouns: He/His
 
 <div align="center">
