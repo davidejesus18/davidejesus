@@ -1,6 +1,6 @@
 ## Hi! I am Davi De Jesus.  
  
-- 👨‍💻 I'm currently working at the Rede D'or São Luiz as data engineer and SRE database.  
+- 👨‍💻 I'm currently working at the Sixbell as data engineer and SRE database.  
 - 📚 I'm working with Oracle, PostgreSQL Rdbms, Nosql, MogoDB, Hadoop, Docker, Kubernetes, Spark, Flume, NiFi, Kafka, Sqoop, Data Lake Serverless, ODI, Pentaho, ETL, Storm, docker swarm, build DW. 
 - 📭 Contact me by email davidejesus1811@gmail.com 
 - 😄 Pronouns: He/His
