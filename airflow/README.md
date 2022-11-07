@@ -11,10 +11,21 @@
 - 4 Run docker-compose databases 
 ##### docker-compose up -d airflow-init
 
+- After initialization is complete:
+- ![image](https://user-images.githubusercontent.com/69523065/200425316-9f86db45-c865-42f9-8939-65af734190fb.png)
+
+
 - 5 Run all services 
 ##### docker-compose up -d 
 
+- 6 Verify all if all services are healthy 
+##### docker ps 
 
+
+##
+
+### Reference:
+##### https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
 
 
 
