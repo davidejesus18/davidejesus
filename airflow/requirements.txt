@@ -1,0 +1,10 @@
+cx_Oracle
+pandas
+pymongo
+elasticsearch==7.9.1
+openpyxl
+unidecode
+elasticsearch6
+requests
+orionsdk
+pyodbc
