@@ -6,5 +6,4 @@ openpyxl
 unidecode
 elasticsearch6
 requests
-orionsdk
 pyodbc
