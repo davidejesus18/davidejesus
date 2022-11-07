@@ -1,3 +1,8 @@
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Davi-Air" height="80" width="80" src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.svg"/>
+</div>
+
 ## Install Airflow with Oracle Client 19c and other libraries 
 ### Running airflow in docker with custom docker image
 
