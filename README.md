@@ -1,7 +1,7 @@
 ## Hi! I am Davi De Jesus.  
  
 - 👨‍💻 I'm currently working at the Sixbell as data engineer and SRE database.  
-- 📚 I'm working with Oracle, PostgreSQL Rdbms, Nosql, MongoDB, Hadoop, Docker, Kubernetes, Spark, Flume, NiFi, Kafka, Sqoop, Data Lake Serverless, ETL, Airflow, build DW. 
+- 📚 I'm working with Oracle, PostgreSQL Rdbms, Nosql, MongoDB, Hadoop, Docker, Kubernetes, Spark, Flume, NiFi, Data Lake Serverless, ETL, Airflow, build DW. 
 - 📭 Contact me by email davidejesus1811@gmail.com 
 - 😄 Pronouns: He/His
 
