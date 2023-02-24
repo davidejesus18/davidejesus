@@ -1,7 +1,7 @@
 ## Hi! I am Davi De Jesus.  
  
 - 👨‍💻 I'm DBA.   
-- 📚 I'm working with Oracle, PostgreSQL, MongoDB, Docker, Kubernetes, Spark, Data Lake, ETL, DW. 
+- 📚 I'm working with Oracle, PostgreSQL, MongoDB, Python, Shell Script, PL SQL, Docker, Kubernetes, Spark, Data Lake, ETL, DW. 
 - 📭 Contact me by email davidejesus1811@gmail.com 
 - 😄 Pronouns: He/His
 
