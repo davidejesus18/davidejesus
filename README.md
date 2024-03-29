@@ -1,7 +1,7 @@
 ## Hi! I am Davi De Jesus.  
  
-- 👨‍💻 I'm a Data Scientist currently working on a company from Brazil.   
-- 📚 I'm working with Python, Machine Learning, Shell Script, PL SQL, Oracle, PostgreSQL, MongoDB, Docker, Kubernetes, Spark, Data Lake, ETL, DW. 
+- 👨‍💻 I'm a Data Engineer Architect currently working on a company from Brazil.   
+- 📚 I'm working with Snowflake, Databricks, Azure Data Factory, Spark, Scala, Python, Terraform and Kubernetes
 - 📭 Contact me by email davidejesus1811@gmail.com 
 - 😄 Pronouns: He/His
 
