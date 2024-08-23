@@ -1,5 +1,5 @@
-## Hi there! I'm Davi De Jesus 👋
-## Data Architect | AI, Deep Learning, and Computer Vision Specialist
+# Hi there! I'm Davi De Jesus 👋
+# Data Architect | AI, Deep Learning, and Computer Vision Specialist
 
 🚀 Currently, I'm working as a Data Architect at Grupo Iter. My expertise is particularly centered on Artificial Intelligence (AI), Deep Learning, and Computer Vision, using these technologies to turn data into strategic insights.
 
