@@ -1,9 +1,15 @@
-## Hi! I am Davi De Jesus.  
- 
-- 👨‍💻 I'm a Data Engineer Architect currently working on a company from Brazil.   
-- 📚 I'm working with Snowflake, Databricks, Azure Data Factory, Spark, Scala, Python, Terraform and Kubernetes
-- 📭 Contact me by email davidejesus1811@gmail.com 
-- 😄 Pronouns: He/His
+## Hi there! I'm Davi De Jesus 👋
+## Data Architect | AI, Deep Learning, and Computer Vision Specialist
+
+🚀 Currently, I'm working as a Data Architect at Grupo Iter. My expertise is particularly centered on Artificial Intelligence (AI), Deep Learning, and Computer Vision, using these technologies to turn data into strategic insights.
+
+💡 With a strong foundation in Data Architecture, I am passionate about solving complex problems using AI and advanced deep learning techniques. I am currently deepening my knowledge in computer vision through a postgraduate program in Computer Vision Master at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
+
+🎓 I also hold certifications in Oracle Database, Azure SQL Database Administration and Snowflake and am constantly seeking new knowledge to stay at the forefront of emerging technologies.
+
+📬 Let's connect! Feel free to reach out at davidejesus1811@gmail.com or explore my projects on GitHub.
+
+🌐 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/davidejesus18">
