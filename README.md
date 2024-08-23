@@ -19,10 +19,8 @@
 <img align="center" alt="Davi-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="center" alt="Azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/>
 <img align="center" alt="Davi-Docker" height="50" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="center" alt="Davi-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="center" alt="Davi-Kube" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="center" alt="Databricks" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Databricks_Logo.png"/>
-<img align="center" alt="Snowflake" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/en/6/69/Snowflake_Logo.svg"/>
+<img align="center" alt="Davi-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="center" alt="Davi-Air" height="50" width="60" src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.svg"/>
 </div>
  
